@@ -3,6 +3,7 @@ starlette>=0.30.0
 uvicorn>=0.22.0
 sqlalchemy
 psycopg2
+psycopg[binary]
 python-dotenv
 pydantic-settings
 slowapi
